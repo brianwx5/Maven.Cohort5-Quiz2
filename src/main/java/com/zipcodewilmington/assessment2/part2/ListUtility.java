@@ -41,6 +41,6 @@ public class ListUtility {
     }
 
     public Boolean contains(Integer valueToAdd) {
-        return null;
+        return newList.contains(valueToAdd);
     }
 }
